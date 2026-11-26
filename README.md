@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm Gabriel
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+Hi I am a freshman at UTSA and am majoring in cybersecurity I currently work security at six flags when im not at school and for extra-curriculars I am a member of the UTSA debate team  
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -9,6 +9,8 @@ _Share some information about yourself, including your class, major, jobs, and e
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
+Gaming, 
+Making New Friends
 
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Pennyk1ng)
